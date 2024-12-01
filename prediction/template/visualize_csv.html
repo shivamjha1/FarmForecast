@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predicted Modal Price Visualization</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        /* General Styling */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f9f4;
+            color: #2f4f2f;
+        }
+
+        h1 {
+            text-align: center;
+            margin: 20px 0;
+            color: #2e8b57;
+        }
+
+        h2 {
+            text-align: center;
+            color: #3c763d;
+            font-size: 1.2em;
+        }
+
+        /* Container for graphs */
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 20px;
+            padding: 20px;
+            max-width: 1200px;
+            margin: auto;
+        }
+
+        .chart-card {
+            background: #ffffff;
+            border: 1px solid #d9e4d6;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 15px;
+            transition: transform 0.2s ease;
+        }
+
+        .chart-card:hover {
+            transform: scale(1.03);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+        }
+
+        canvas {
+            margin: 0 auto;
+            display: block;
+        }
+
+        /* Navigation Bar */
+        .navbar {
+            background-color: #2e8b57;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 18px;
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+
+        .navbar a:hover {
+            color: #a9dfbf;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <div class="navbar">
+        <a href="{% url 'home' %}">Home</a>
+        <a href="{% url "upload_csv"  %}" class="card">Upload CSV</a>
+        <a href="#">Visualize</a>
+    </div>
+
+    <!-- Page Title -->
+    <h1>Predicted Modal Prices by State and Commodity</h1>
+
+    <!-- Grid Container for Graphs -->
+    <div class="grid-container">
+        {% for graph in graphs_data %}
+        <div class="chart-card">
+            <h2>{{ graph.state }} - {{ graph.commodity }}</h2>
+            <canvas id="chart-{{ forloop.counter }}" width="400" height="200"></canvas>
+            <script>
+                document.addEventListener("DOMContentLoaded", function () {
+                    const ctx{{ forloop.counter }} = document.getElementById('chart-{{ forloop.counter }}').getContext('2d');
+                    const data{{ forloop.counter }} = {
+                        labels: {{ graph.dates|safe }},
+                        datasets: [{
+                            label: 'Predicted Modal Price',
+                            data: {{ graph.prices|safe }},
+                            backgroundColor: 'rgba(34, 139, 34, 0.2)', /* Green background */
+                            borderColor: 'rgba(34, 139, 34, 1)', /* Green border */
+                            borderWidth: 2,
+                            fill: true,
+                            tension: 0.4
+                        }]
+                    };
+                    const config{{ forloop.counter }} = {
+                        type: 'line',
+                        data: data{{ forloop.counter }},
+                        options: {
+                            responsive: true,
+                            plugins: {
+                            
+                            },
+                            scales: {
+                                x: {
+                                    title: { 
+                                        display: true, 
+                                        text: 'Date', 
+                                        color: '#2f4f2f' 
+                                    },
+                                    ticks: { color: '#2f4f2f' }
+                                },
+                                y: {
+                                    title: { 
+                                        display: true, 
+                                        text: 'Predicted Modal Price', 
+                                        color: '#2f4f2f' 
+                                    },
+                                    ticks: { color: '#2f4f2f' },
+                                    beginAtZero: true
+                                }
+                            }
+                        }
+                    };
+                    new Chart(ctx{{ forloop.counter }}, config{{ forloop.counter }});
+                });
+            </script>
+        </div>
+        {% endfor %}
+    </div>
+</body>
+</html>

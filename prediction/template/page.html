@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plant-Themed Categories</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Categories</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main content -->
+    <div class="container">
+        <a href="{% url 'file-upload' 'spice' %}" class="card">
+            <img src="/static/spices.jpg" alt="Spices">
+            <div class="title">Spices</div>
+        </a>
+        <a href="{% url 'file-upload' 'cereal' %}" class="card">
+            <img src="/static/Cereals.jpg" alt="cereals">
+            <div class="title">Cereals</div>
+        </a>
+        
+        <a href="{% url 'file-upload' 'vegetable' %}" class="card">
+            <img src="/static/vegetables.jpg" alt="Vegetables">
+            <div class="title">Vegetables</div>
+        </a>
+        <a href="{% url 'file-upload' 'fruit' %}" class="card">
+            <img src="/static/Fruits.jpg" alt="Fruits">
+            <div class="title">Fruits</div>
+        </a>
+        
+        <a href="{% url 'file-upload' 'pulse' %}" class="card">
+            <img src="/static/pulses.jpg" alt="Pulses">
+            <div class="title">Pulses</div>
+        </a>
+        <a href="{% url "file-upload" 'oil' %}" class="card">
+            <img src="/static/oil.jpg" alt="Oils">
+            <div class="title">Oils</div>
+        </a>
+        <a href="{% url "file-upload" 'plantation' %}" class="card">
+            <img src="/static/plantation.jpg" alt="Plantation">
+            <div class="title">Plantation</div>
+        </a>
+        <a href="{% url "file-upload" 'animal' %}" class="card">
+            <img src="/static/animals.jpg" alt="Animals">
+            <div class="title">Animals</div>
+        </a>
+        <a href="{% url "upload_csv"  %}" class="card">
+            <img src="/static/trends.jpg" alt="Visualizations">
+            <div class="title">Visualizations</div>
+        </a>
+    </div>
+</body>
+</html>

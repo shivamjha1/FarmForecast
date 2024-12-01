@@ -1,0 +1,61 @@
+State,Commodity,Date,Predicted_Modal_Price
+Bihar,Rice,2022-01-04,2179.65
+Bihar,Rice,2022-01-05,2065.96
+Bihar,Rice,2022-01-06,2035.20
+Bihar,Rice,2022-01-07,2096.68
+Bihar,Rice,2022-01-08,2323.12
+Bihar,Rice,2022-01-09,2680.51
+Bihar,Rice,2022-01-10,2868.61
+Bihar,Rice,2022-01-11,2324.32
+Bihar,Rice,2022-01-12,2605.38
+Bihar,Rice,2022-01-13,2383.72
+Bihar,Wheat,2022-02-13,1828.79
+Bihar,Wheat,2022-02-14,1830.30
+Bihar,Wheat,2022-02-15,1831.27
+Bihar,Wheat,2022-02-16,1837.02
+Bihar,Wheat,2022-02-17,1838.57
+Bihar,Wheat,2022-02-18,1837.97
+Bihar,Wheat,2022-02-19,1840.48
+Bihar,Wheat,2022-02-20,1839.29
+Bihar,Wheat,2022-02-21,1839.69
+Bihar,Wheat,2022-02-22,1844.15
+Punjab,Paddy(Dhan)(Basmati),2023-12-03,1624.54
+Punjab,Paddy(Dhan)(Basmati),2023-12-04,1929.77
+Punjab,Paddy(Dhan)(Basmati),2023-12-05,1837.77
+Punjab,Paddy(Dhan)(Basmati),2023-12-06,1559.58
+Punjab,Paddy(Dhan)(Basmati),2023-12-07,1766.83
+Punjab,Paddy(Dhan)(Basmati),2023-12-08,2559.55
+Punjab,Paddy(Dhan)(Basmati),2023-12-09,6597.65
+Punjab,Paddy(Dhan)(Basmati),2023-12-10,8964.12
+Punjab,Paddy(Dhan)(Basmati),2023-12-11,8355.58
+Punjab,Paddy(Dhan)(Basmati),2023-12-12,5146.86
+Punjab,Wheat,2024-06-01,2152.81
+Punjab,Wheat,2024-06-02,2152.30
+Punjab,Wheat,2024-06-03,2150.26
+Punjab,Wheat,2024-06-04,2168.13
+Punjab,Wheat,2024-06-05,2251.87
+Punjab,Wheat,2024-06-06,2279.73
+Punjab,Wheat,2024-06-07,2395.21
+Punjab,Wheat,2024-06-08,2512.36
+Punjab,Wheat,2024-06-09,2531.19
+Punjab,Wheat,2024-06-10,2499.33
+Uttar Pradesh,Rice,2024-10-11,2215.61
+Uttar Pradesh,Rice,2024-10-12,2193.28
+Uttar Pradesh,Rice,2024-10-13,2178.68
+Uttar Pradesh,Rice,2024-10-14,2172.98
+Uttar Pradesh,Rice,2024-10-15,2065.64
+Uttar Pradesh,Rice,2024-10-16,2023.83
+Uttar Pradesh,Rice,2024-10-17,2047.18
+Uttar Pradesh,Rice,2024-10-18,3003.85
+Uttar Pradesh,Rice,2024-10-19,4062.14
+Uttar Pradesh,Rice,2024-10-20,4590.91
+Uttar Pradesh,Wheat,2024-10-11,2124.49
+Uttar Pradesh,Wheat,2024-10-12,2120.49
+Uttar Pradesh,Wheat,2024-10-13,2124.06
+Uttar Pradesh,Wheat,2024-10-14,2092.27
+Uttar Pradesh,Wheat,2024-10-15,2200.60
+Uttar Pradesh,Wheat,2024-10-16,2254.41
+Uttar Pradesh,Wheat,2024-10-17,2585.41
+Uttar Pradesh,Wheat,2024-10-18,2795.16
+Uttar Pradesh,Wheat,2024-10-19,2963.23
+Uttar Pradesh,Wheat,2024-10-20,3158.13

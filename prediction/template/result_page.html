@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predicted Prices</title>
+    
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <!-- Custom CSS for styling -->
+    <style>
+        body {
+            background-color: #e9f7ea; /* Light green background */
+            font-family: 'Arial', sans-serif;
+        }
+        h2, h3 {
+            color: #2d6a4f; /* Deep green for titles */
+            margin-bottom: 20px;
+        }
+        .table {
+            margin-top: 20px;
+            background-color: #f8f9fa;
+            border: 2px solid #52b788; /* Green border for the table */
+        }
+        .table th {
+            background-color: #52b788; /* Green header background */
+            color: white;
+        }
+        .btn {
+            margin-right: 10px;
+            background-color: #40916c; /* Green buttons */
+            color: white;
+            border: none;
+        }
+        .btn:hover {
+            background-color: #2d6a4f; /* Darker green on hover */
+        }
+        .chart-container {
+            margin-bottom: 30px;
+        }
+        .text-center a {
+            font-size: 1.2rem;
+        }
+        footer {
+            margin-top: 40px;
+            text-align: center;
+            background-color: #2d6a4f;
+            color: white;
+            padding: 10px 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <!-- Page Title -->
+        <h1 class="mt-5 text-center">Predicted Prices</h1>
+
+        <!-- Table view of the predictions -->
+        <div class="table-responsive">
+            <table class="table table-bordered table-striped">
+                {{ predictions|safe }}  <!-- Render the predictions table -->
+            </table>
+        </div>
+
+        <!-- Buttons for downloading CSV and uploading new file -->
+        <div class="text-center mt-4">
+            <a href="?download=csv" class="btn btn-lg">Download CSV</a>
+            <a href="{% url 'file-upload' 'result' %}" class="btn btn-lg">Upload Another File</a>
+            <a href="{% url 'upload_csv'  %}" class="btn btn-lg">Visualize the prediction</a>
+        </div>
+    </div>
+    
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Crop Price Prediction. All Rights Reserved.</p>
+    </footer>
+</body>
+
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload CSV</title>
+    <link rel="stylesheet" href="/static/upload_styles.css">
+</head>
+<body>
+    <div class="upload-container">
+        <h1>Upload CSV File</h1>
+        <form method="POST" enctype="multipart/form-data">
+            {% csrf_token %}
+            <input type="file" name="file-upload" required>
+            <button type="submit">Upload and Predict</button>
+        </form>
+    </div>
+</body>
+</html>

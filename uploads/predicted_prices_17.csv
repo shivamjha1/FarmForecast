@@ -1,0 +1,541 @@
+State,Commodity,Date,Predicted_Modal_Price
+Bihar,Rice,2022-01-04,2291.04
+Bihar,Rice,2022-01-05,2275.31
+Bihar,Rice,2022-01-06,2284.81
+Bihar,Rice,2022-01-07,2260.71
+Bihar,Rice,2022-01-08,2290.27
+Bihar,Rice,2022-01-09,2303.44
+Bihar,Rice,2022-01-10,2304.58
+Bihar,Rice,2022-01-11,2315.75
+Bihar,Rice,2022-01-12,2337.01
+Bihar,Rice,2022-01-13,2385.84
+Bihar,Rice,2022-01-14,2397.63
+Bihar,Rice,2022-01-15,2385.29
+Bihar,Rice,2022-01-16,2365.11
+Bihar,Rice,2022-01-17,2343.58
+Bihar,Rice,2022-01-18,2333.82
+Bihar,Rice,2022-01-19,2327.28
+Bihar,Rice,2022-01-20,2299.66
+Bihar,Rice,2022-01-21,2289.67
+Bihar,Rice,2022-01-22,2258.68
+Bihar,Rice,2022-01-23,2273.00
+Bihar,Rice,2022-01-24,2227.64
+Bihar,Rice,2022-01-25,2204.41
+Bihar,Rice,2022-01-26,2180.10
+Bihar,Rice,2022-01-27,2180.24
+Bihar,Rice,2022-01-28,2149.39
+Bihar,Rice,2022-01-29,2149.72
+Bihar,Rice,2022-01-30,2127.03
+Bihar,Rice,2022-01-31,2128.24
+Bihar,Rice,2022-02-01,2119.78
+Bihar,Rice,2022-02-02,2109.32
+Bihar,Rice,2022-02-03,2067.26
+Bihar,Rice,2022-02-04,2065.04
+Bihar,Rice,2022-02-05,2062.55
+Bihar,Rice,2022-02-06,2060.21
+Bihar,Rice,2022-02-07,2057.75
+Bihar,Rice,2022-02-08,2052.37
+Bihar,Rice,2022-02-09,2047.94
+Bihar,Rice,2022-02-10,2043.24
+Bihar,Rice,2022-02-11,2037.80
+Bihar,Rice,2022-02-12,2030.59
+Bihar,Rice,2022-02-13,2023.42
+Bihar,Rice,2022-02-14,2015.95
+Bihar,Rice,2022-02-15,2007.73
+Bihar,Rice,2022-02-16,1999.83
+Bihar,Rice,2022-02-17,1992.70
+Bihar,Rice,2022-02-18,1986.16
+Bihar,Rice,2022-02-19,1980.15
+Bihar,Rice,2022-02-20,1977.10
+Bihar,Rice,2022-02-21,1974.31
+Bihar,Rice,2022-02-22,1972.53
+Bihar,Rice,2022-02-23,1970.73
+Bihar,Rice,2022-02-24,1969.19
+Bihar,Rice,2022-02-25,1967.38
+Bihar,Rice,2022-02-26,1965.74
+Bihar,Rice,2022-02-27,1964.20
+Bihar,Rice,2022-02-28,1962.08
+Bihar,Rice,2022-03-01,1959.95
+Bihar,Rice,2022-03-02,1958.27
+Bihar,Rice,2022-03-03,1957.09
+Bihar,Rice,2022-03-04,1955.69
+Bihar,Rice,2022-03-05,1954.45
+Bihar,Rice,2022-03-06,1953.38
+Bihar,Rice,2022-03-07,1952.27
+Bihar,Rice,2022-03-08,1951.13
+Bihar,Rice,2022-03-09,1949.98
+Bihar,Rice,2022-03-10,1948.85
+Bihar,Rice,2022-03-11,1947.50
+Bihar,Rice,2022-03-12,1945.98
+Bihar,Rice,2022-03-13,1944.41
+Bihar,Rice,2022-03-14,1942.58
+Bihar,Rice,2022-03-15,1941.32
+Bihar,Rice,2022-03-16,1940.17
+Bihar,Rice,2022-03-17,1939.01
+Bihar,Rice,2022-03-18,1937.56
+Bihar,Rice,2022-03-19,1936.24
+Bihar,Rice,2022-03-20,1935.04
+Bihar,Rice,2022-03-21,1933.95
+Bihar,Rice,2022-03-22,1932.95
+Bihar,Rice,2022-03-23,1931.96
+Bihar,Rice,2022-03-24,1931.00
+Bihar,Rice,2022-03-25,1930.03
+Bihar,Rice,2022-03-26,1929.07
+Bihar,Rice,2022-03-27,1928.10
+Bihar,Rice,2022-03-28,1927.14
+Bihar,Rice,2022-03-29,1926.17
+Bihar,Rice,2022-03-30,1925.20
+Bihar,Rice,2022-03-31,1924.23
+Bihar,Rice,2022-04-01,1923.27
+Bihar,Rice,2022-04-02,1922.00
+Bihar,Rice,2022-04-03,1920.76
+Bihar,Wheat,2022-02-13,1815.41
+Bihar,Wheat,2022-02-14,1816.90
+Bihar,Wheat,2022-02-15,1816.84
+Bihar,Wheat,2022-02-16,1817.34
+Bihar,Wheat,2022-02-17,1819.99
+Bihar,Wheat,2022-02-18,1819.36
+Bihar,Wheat,2022-02-19,1821.42
+Bihar,Wheat,2022-02-20,1820.33
+Bihar,Wheat,2022-02-21,1821.89
+Bihar,Wheat,2022-02-22,1825.10
+Bihar,Wheat,2022-02-23,1828.05
+Bihar,Wheat,2022-02-24,1828.61
+Bihar,Wheat,2022-02-25,1828.18
+Bihar,Wheat,2022-02-26,1828.75
+Bihar,Wheat,2022-02-27,1828.30
+Bihar,Wheat,2022-02-28,1828.53
+Bihar,Wheat,2022-03-01,1829.21
+Bihar,Wheat,2022-03-02,1829.48
+Bihar,Wheat,2022-03-03,1830.20
+Bihar,Wheat,2022-03-04,1830.44
+Bihar,Wheat,2022-03-05,1830.09
+Bihar,Wheat,2022-03-06,1830.59
+Bihar,Wheat,2022-03-07,1831.04
+Bihar,Wheat,2022-03-08,1831.60
+Bihar,Wheat,2022-03-09,1831.41
+Bihar,Wheat,2022-03-10,1831.49
+Bihar,Wheat,2022-03-11,1831.36
+Bihar,Wheat,2022-03-12,1831.62
+Bihar,Wheat,2022-03-13,1833.52
+Bihar,Wheat,2022-03-14,1833.83
+Bihar,Wheat,2022-03-15,1833.95
+Bihar,Wheat,2022-03-16,1834.04
+Bihar,Wheat,2022-03-17,1834.12
+Bihar,Wheat,2022-03-18,1834.24
+Bihar,Wheat,2022-03-19,1834.37
+Bihar,Wheat,2022-03-20,1834.47
+Bihar,Wheat,2022-03-21,1834.57
+Bihar,Wheat,2022-03-22,1834.66
+Bihar,Wheat,2022-03-23,1834.77
+Bihar,Wheat,2022-03-24,1834.88
+Bihar,Wheat,2022-03-25,1834.96
+Bihar,Wheat,2022-03-26,1835.02
+Bihar,Wheat,2022-03-27,1835.08
+Bihar,Wheat,2022-03-28,1835.13
+Bihar,Wheat,2022-03-29,1835.19
+Bihar,Wheat,2022-03-30,1835.25
+Bihar,Wheat,2022-03-31,1835.32
+Bihar,Wheat,2022-04-01,1835.37
+Bihar,Wheat,2022-04-02,1835.43
+Bihar,Wheat,2022-04-03,1835.46
+Bihar,Wheat,2022-04-04,1835.50
+Bihar,Wheat,2022-04-05,1835.54
+Bihar,Wheat,2022-04-06,1835.57
+Bihar,Wheat,2022-04-07,1835.61
+Bihar,Wheat,2022-04-08,1835.64
+Bihar,Wheat,2022-04-09,1835.67
+Bihar,Wheat,2022-04-10,1835.70
+Bihar,Wheat,2022-04-11,1835.74
+Bihar,Wheat,2022-04-12,1835.77
+Bihar,Wheat,2022-04-13,1835.79
+Bihar,Wheat,2022-04-14,1835.80
+Bihar,Wheat,2022-04-15,1835.82
+Bihar,Wheat,2022-04-16,1835.83
+Bihar,Wheat,2022-04-17,1835.84
+Bihar,Wheat,2022-04-18,1835.85
+Bihar,Wheat,2022-04-19,1835.87
+Bihar,Wheat,2022-04-20,1835.88
+Bihar,Wheat,2022-04-21,1835.89
+Bihar,Wheat,2022-04-22,1835.90
+Bihar,Wheat,2022-04-23,1835.91
+Bihar,Wheat,2022-04-24,1835.91
+Bihar,Wheat,2022-04-25,1835.92
+Bihar,Wheat,2022-04-26,1835.93
+Bihar,Wheat,2022-04-27,1835.94
+Bihar,Wheat,2022-04-28,1835.94
+Bihar,Wheat,2022-04-29,1835.95
+Bihar,Wheat,2022-04-30,1835.95
+Bihar,Wheat,2022-05-01,1835.96
+Bihar,Wheat,2022-05-02,1835.96
+Bihar,Wheat,2022-05-03,1835.97
+Bihar,Wheat,2022-05-04,1835.97
+Bihar,Wheat,2022-05-05,1835.98
+Bihar,Wheat,2022-05-06,1835.98
+Bihar,Wheat,2022-05-07,1835.98
+Bihar,Wheat,2022-05-08,1835.98
+Bihar,Wheat,2022-05-09,1835.99
+Bihar,Wheat,2022-05-10,1835.99
+Bihar,Wheat,2022-05-11,1835.99
+Bihar,Wheat,2022-05-12,1835.99
+Bihar,Wheat,2022-05-13,1836.00
+Punjab,Paddy(Dhan)(Basmati),2023-12-03,4372.51
+Punjab,Paddy(Dhan)(Basmati),2023-12-04,4358.21
+Punjab,Paddy(Dhan)(Basmati),2023-12-05,4418.09
+Punjab,Paddy(Dhan)(Basmati),2023-12-06,4439.42
+Punjab,Paddy(Dhan)(Basmati),2023-12-07,4450.34
+Punjab,Paddy(Dhan)(Basmati),2023-12-08,4418.67
+Punjab,Paddy(Dhan)(Basmati),2023-12-09,4417.72
+Punjab,Paddy(Dhan)(Basmati),2023-12-10,4385.62
+Punjab,Paddy(Dhan)(Basmati),2023-12-11,4373.92
+Punjab,Paddy(Dhan)(Basmati),2023-12-12,4339.77
+Punjab,Paddy(Dhan)(Basmati),2023-12-13,4308.22
+Punjab,Paddy(Dhan)(Basmati),2023-12-14,4253.66
+Punjab,Paddy(Dhan)(Basmati),2023-12-15,4169.14
+Punjab,Paddy(Dhan)(Basmati),2023-12-16,4029.26
+Punjab,Paddy(Dhan)(Basmati),2023-12-17,3897.43
+Punjab,Paddy(Dhan)(Basmati),2023-12-18,3844.27
+Punjab,Paddy(Dhan)(Basmati),2023-12-19,3762.21
+Punjab,Paddy(Dhan)(Basmati),2023-12-20,3669.62
+Punjab,Paddy(Dhan)(Basmati),2023-12-21,3542.13
+Punjab,Paddy(Dhan)(Basmati),2023-12-22,3420.69
+Punjab,Paddy(Dhan)(Basmati),2023-12-23,3266.78
+Punjab,Paddy(Dhan)(Basmati),2023-12-24,3171.24
+Punjab,Paddy(Dhan)(Basmati),2023-12-25,3066.68
+Punjab,Paddy(Dhan)(Basmati),2023-12-26,2978.91
+Punjab,Paddy(Dhan)(Basmati),2023-12-27,2875.49
+Punjab,Paddy(Dhan)(Basmati),2023-12-28,2822.45
+Punjab,Paddy(Dhan)(Basmati),2023-12-29,2740.73
+Punjab,Paddy(Dhan)(Basmati),2023-12-30,2670.34
+Punjab,Paddy(Dhan)(Basmati),2023-12-31,2601.27
+Punjab,Paddy(Dhan)(Basmati),2024-01-01,2500.02
+Punjab,Paddy(Dhan)(Basmati),2024-01-02,2414.53
+Punjab,Paddy(Dhan)(Basmati),2024-01-03,2396.31
+Punjab,Paddy(Dhan)(Basmati),2024-01-04,2377.37
+Punjab,Paddy(Dhan)(Basmati),2024-01-05,2354.63
+Punjab,Paddy(Dhan)(Basmati),2024-01-06,2330.88
+Punjab,Paddy(Dhan)(Basmati),2024-01-07,2309.53
+Punjab,Paddy(Dhan)(Basmati),2024-01-08,2292.23
+Punjab,Paddy(Dhan)(Basmati),2024-01-09,2271.66
+Punjab,Paddy(Dhan)(Basmati),2024-01-10,2249.80
+Punjab,Paddy(Dhan)(Basmati),2024-01-11,2227.44
+Punjab,Paddy(Dhan)(Basmati),2024-01-12,2207.10
+Punjab,Paddy(Dhan)(Basmati),2024-01-13,2185.26
+Punjab,Paddy(Dhan)(Basmati),2024-01-14,2147.03
+Punjab,Paddy(Dhan)(Basmati),2024-01-15,2109.23
+Punjab,Paddy(Dhan)(Basmati),2024-01-16,2076.66
+Punjab,Paddy(Dhan)(Basmati),2024-01-17,2047.54
+Punjab,Paddy(Dhan)(Basmati),2024-01-18,2014.51
+Punjab,Paddy(Dhan)(Basmati),2024-01-19,1985.79
+Punjab,Paddy(Dhan)(Basmati),2024-01-20,1966.93
+Punjab,Paddy(Dhan)(Basmati),2024-01-21,1953.54
+Punjab,Paddy(Dhan)(Basmati),2024-01-22,1943.89
+Punjab,Paddy(Dhan)(Basmati),2024-01-23,1934.43
+Punjab,Paddy(Dhan)(Basmati),2024-01-24,1922.75
+Punjab,Paddy(Dhan)(Basmati),2024-01-25,1894.91
+Punjab,Paddy(Dhan)(Basmati),2024-01-26,1861.53
+Punjab,Paddy(Dhan)(Basmati),2024-01-27,1847.07
+Punjab,Paddy(Dhan)(Basmati),2024-01-28,1836.00
+Punjab,Paddy(Dhan)(Basmati),2024-01-29,1826.17
+Punjab,Paddy(Dhan)(Basmati),2024-01-30,1815.59
+Punjab,Paddy(Dhan)(Basmati),2024-01-31,1804.70
+Punjab,Paddy(Dhan)(Basmati),2024-02-01,1795.15
+Punjab,Paddy(Dhan)(Basmati),2024-02-02,1790.91
+Punjab,Paddy(Dhan)(Basmati),2024-02-03,1786.55
+Punjab,Paddy(Dhan)(Basmati),2024-02-04,1782.07
+Punjab,Paddy(Dhan)(Basmati),2024-02-05,1777.63
+Punjab,Paddy(Dhan)(Basmati),2024-02-06,1773.08
+Punjab,Paddy(Dhan)(Basmati),2024-02-07,1768.55
+Punjab,Paddy(Dhan)(Basmati),2024-02-08,1763.97
+Punjab,Paddy(Dhan)(Basmati),2024-02-09,1759.57
+Punjab,Paddy(Dhan)(Basmati),2024-02-10,1754.92
+Punjab,Paddy(Dhan)(Basmati),2024-02-11,1750.32
+Punjab,Paddy(Dhan)(Basmati),2024-02-12,1745.66
+Punjab,Paddy(Dhan)(Basmati),2024-02-13,1741.39
+Punjab,Paddy(Dhan)(Basmati),2024-02-14,1740.14
+Punjab,Paddy(Dhan)(Basmati),2024-02-15,1739.46
+Punjab,Paddy(Dhan)(Basmati),2024-02-16,1738.79
+Punjab,Paddy(Dhan)(Basmati),2024-02-17,1738.17
+Punjab,Paddy(Dhan)(Basmati),2024-02-18,1737.67
+Punjab,Paddy(Dhan)(Basmati),2024-02-19,1737.26
+Punjab,Paddy(Dhan)(Basmati),2024-02-20,1736.82
+Punjab,Paddy(Dhan)(Basmati),2024-02-21,1736.37
+Punjab,Paddy(Dhan)(Basmati),2024-02-22,1735.93
+Punjab,Paddy(Dhan)(Basmati),2024-02-23,1735.52
+Punjab,Paddy(Dhan)(Basmati),2024-02-24,1735.16
+Punjab,Paddy(Dhan)(Basmati),2024-02-25,1734.88
+Punjab,Paddy(Dhan)(Basmati),2024-02-26,1734.63
+Punjab,Paddy(Dhan)(Basmati),2024-02-27,1734.42
+Punjab,Paddy(Dhan)(Basmati),2024-02-28,1734.23
+Punjab,Paddy(Dhan)(Basmati),2024-02-29,1734.05
+Punjab,Paddy(Dhan)(Basmati),2024-03-01,1733.91
+Punjab,Wheat,2024-06-01,2256.27
+Punjab,Wheat,2024-06-02,2256.67
+Punjab,Wheat,2024-06-03,2257.29
+Punjab,Wheat,2024-06-04,2270.27
+Punjab,Wheat,2024-06-05,2292.25
+Punjab,Wheat,2024-06-06,2300.75
+Punjab,Wheat,2024-06-07,2315.02
+Punjab,Wheat,2024-06-08,2341.42
+Punjab,Wheat,2024-06-09,2370.05
+Punjab,Wheat,2024-06-10,2407.46
+Punjab,Wheat,2024-06-11,2432.74
+Punjab,Wheat,2024-06-12,2407.97
+Punjab,Wheat,2024-06-13,2397.07
+Punjab,Wheat,2024-06-14,2403.63
+Punjab,Wheat,2024-06-15,2409.59
+Punjab,Wheat,2024-06-16,2374.21
+Punjab,Wheat,2024-06-17,2349.08
+Punjab,Wheat,2024-06-18,2325.38
+Punjab,Wheat,2024-06-19,2310.29
+Punjab,Wheat,2024-06-20,2277.44
+Punjab,Wheat,2024-06-21,2245.53
+Punjab,Wheat,2024-06-22,2224.62
+Punjab,Wheat,2024-06-23,2208.99
+Punjab,Wheat,2024-06-24,2167.71
+Punjab,Wheat,2024-06-25,2126.63
+Punjab,Wheat,2024-06-26,2116.49
+Punjab,Wheat,2024-06-27,2108.11
+Punjab,Wheat,2024-06-28,2107.80
+Punjab,Wheat,2024-06-29,2111.38
+Punjab,Wheat,2024-06-30,2050.13
+Punjab,Wheat,2024-07-01,2015.82
+Punjab,Wheat,2024-07-02,2013.59
+Punjab,Wheat,2024-07-03,2012.25
+Punjab,Wheat,2024-07-04,2008.79
+Punjab,Wheat,2024-07-05,2004.93
+Punjab,Wheat,2024-07-06,1998.96
+Punjab,Wheat,2024-07-07,1993.98
+Punjab,Wheat,2024-07-08,1988.92
+Punjab,Wheat,2024-07-09,1984.13
+Punjab,Wheat,2024-07-10,1978.15
+Punjab,Wheat,2024-07-11,1970.89
+Punjab,Wheat,2024-07-12,1962.82
+Punjab,Wheat,2024-07-13,1955.50
+Punjab,Wheat,2024-07-14,1949.94
+Punjab,Wheat,2024-07-15,1944.76
+Punjab,Wheat,2024-07-16,1941.30
+Punjab,Wheat,2024-07-17,1935.06
+Punjab,Wheat,2024-07-18,1924.09
+Punjab,Wheat,2024-07-19,1912.96
+Punjab,Wheat,2024-07-20,1902.06
+Punjab,Wheat,2024-07-21,1888.24
+Punjab,Wheat,2024-07-22,1875.37
+Punjab,Wheat,2024-07-23,1872.61
+Punjab,Wheat,2024-07-24,1871.99
+Punjab,Wheat,2024-07-25,1871.49
+Punjab,Wheat,2024-07-26,1870.75
+Punjab,Wheat,2024-07-27,1869.83
+Punjab,Wheat,2024-07-28,1868.78
+Punjab,Wheat,2024-07-29,1867.52
+Punjab,Wheat,2024-07-30,1866.30
+Punjab,Wheat,2024-07-31,1865.30
+Punjab,Wheat,2024-08-01,1864.34
+Punjab,Wheat,2024-08-02,1863.30
+Punjab,Wheat,2024-08-03,1862.20
+Punjab,Wheat,2024-08-04,1861.19
+Punjab,Wheat,2024-08-05,1860.29
+Punjab,Wheat,2024-08-06,1859.51
+Punjab,Wheat,2024-08-07,1858.75
+Punjab,Wheat,2024-08-08,1858.00
+Punjab,Wheat,2024-08-09,1857.18
+Punjab,Wheat,2024-08-10,1856.35
+Punjab,Wheat,2024-08-11,1855.56
+Punjab,Wheat,2024-08-12,1854.87
+Punjab,Wheat,2024-08-13,1854.26
+Punjab,Wheat,2024-08-14,1853.64
+Punjab,Wheat,2024-08-15,1852.98
+Punjab,Wheat,2024-08-16,1852.26
+Punjab,Wheat,2024-08-17,1851.55
+Punjab,Wheat,2024-08-18,1850.90
+Punjab,Wheat,2024-08-19,1850.32
+Punjab,Wheat,2024-08-20,1849.91
+Punjab,Wheat,2024-08-21,1849.69
+Punjab,Wheat,2024-08-22,1849.51
+Punjab,Wheat,2024-08-23,1849.32
+Punjab,Wheat,2024-08-24,1849.15
+Punjab,Wheat,2024-08-25,1848.98
+Punjab,Wheat,2024-08-26,1848.81
+Punjab,Wheat,2024-08-27,1848.64
+Punjab,Wheat,2024-08-28,1848.47
+Punjab,Wheat,2024-08-29,1848.32
+Uttar Pradesh,Rice,2024-10-11,3610.66
+Uttar Pradesh,Rice,2024-10-12,3616.83
+Uttar Pradesh,Rice,2024-10-13,3602.12
+Uttar Pradesh,Rice,2024-10-14,3650.18
+Uttar Pradesh,Rice,2024-10-15,3599.25
+Uttar Pradesh,Rice,2024-10-16,3600.11
+Uttar Pradesh,Rice,2024-10-17,3594.05
+Uttar Pradesh,Rice,2024-10-18,3528.92
+Uttar Pradesh,Rice,2024-10-19,3460.32
+Uttar Pradesh,Rice,2024-10-20,3462.43
+Uttar Pradesh,Rice,2024-10-21,3435.22
+Uttar Pradesh,Rice,2024-10-22,3390.67
+Uttar Pradesh,Rice,2024-10-23,3362.94
+Uttar Pradesh,Rice,2024-10-24,3280.94
+Uttar Pradesh,Rice,2024-10-25,3204.36
+Uttar Pradesh,Rice,2024-10-26,3155.91
+Uttar Pradesh,Rice,2024-10-27,3078.75
+Uttar Pradesh,Rice,2024-10-28,2996.38
+Uttar Pradesh,Rice,2024-10-29,2925.24
+Uttar Pradesh,Rice,2024-10-30,2837.96
+Uttar Pradesh,Rice,2024-10-31,2765.12
+Uttar Pradesh,Rice,2024-11-01,2682.52
+Uttar Pradesh,Rice,2024-11-02,2596.82
+Uttar Pradesh,Rice,2024-11-03,2501.49
+Uttar Pradesh,Rice,2024-11-04,2457.58
+Uttar Pradesh,Rice,2024-11-05,2409.31
+Uttar Pradesh,Rice,2024-11-06,2383.49
+Uttar Pradesh,Rice,2024-11-07,2353.54
+Uttar Pradesh,Rice,2024-11-08,2336.65
+Uttar Pradesh,Rice,2024-11-09,2308.49
+Uttar Pradesh,Rice,2024-11-10,2300.74
+Uttar Pradesh,Rice,2024-11-11,2292.59
+Uttar Pradesh,Rice,2024-11-12,2283.11
+Uttar Pradesh,Rice,2024-11-13,2273.47
+Uttar Pradesh,Rice,2024-11-14,2262.82
+Uttar Pradesh,Rice,2024-11-15,2253.42
+Uttar Pradesh,Rice,2024-11-16,2245.04
+Uttar Pradesh,Rice,2024-11-17,2237.22
+Uttar Pradesh,Rice,2024-11-18,2229.85
+Uttar Pradesh,Rice,2024-11-19,2222.82
+Uttar Pradesh,Rice,2024-11-20,2216.05
+Uttar Pradesh,Rice,2024-11-21,2209.65
+Uttar Pradesh,Rice,2024-11-22,2201.90
+Uttar Pradesh,Rice,2024-11-23,2191.68
+Uttar Pradesh,Rice,2024-11-24,2180.49
+Uttar Pradesh,Rice,2024-11-25,2169.86
+Uttar Pradesh,Rice,2024-11-26,2159.58
+Uttar Pradesh,Rice,2024-11-27,2149.16
+Uttar Pradesh,Rice,2024-11-28,2139.18
+Uttar Pradesh,Rice,2024-11-29,2127.98
+Uttar Pradesh,Rice,2024-11-30,2115.85
+Uttar Pradesh,Rice,2024-12-01,2104.59
+Uttar Pradesh,Rice,2024-12-02,2094.64
+Uttar Pradesh,Rice,2024-12-03,2086.35
+Uttar Pradesh,Rice,2024-12-04,2079.40
+Uttar Pradesh,Rice,2024-12-05,2072.88
+Uttar Pradesh,Rice,2024-12-06,2067.16
+Uttar Pradesh,Rice,2024-12-07,2061.32
+Uttar Pradesh,Rice,2024-12-08,2055.82
+Uttar Pradesh,Rice,2024-12-09,2050.31
+Uttar Pradesh,Rice,2024-12-10,2045.04
+Uttar Pradesh,Rice,2024-12-11,2039.25
+Uttar Pradesh,Rice,2024-12-12,2033.33
+Uttar Pradesh,Rice,2024-12-13,2028.01
+Uttar Pradesh,Rice,2024-12-14,2023.24
+Uttar Pradesh,Rice,2024-12-15,2018.32
+Uttar Pradesh,Rice,2024-12-16,2013.56
+Uttar Pradesh,Rice,2024-12-17,2008.78
+Uttar Pradesh,Rice,2024-12-18,2004.22
+Uttar Pradesh,Rice,2024-12-19,1999.62
+Uttar Pradesh,Rice,2024-12-20,1995.81
+Uttar Pradesh,Rice,2024-12-21,1992.23
+Uttar Pradesh,Rice,2024-12-22,1989.17
+Uttar Pradesh,Rice,2024-12-23,1986.49
+Uttar Pradesh,Rice,2024-12-24,1984.13
+Uttar Pradesh,Rice,2024-12-25,1981.57
+Uttar Pradesh,Rice,2024-12-26,1979.11
+Uttar Pradesh,Rice,2024-12-27,1976.86
+Uttar Pradesh,Rice,2024-12-28,1974.81
+Uttar Pradesh,Rice,2024-12-29,1972.25
+Uttar Pradesh,Rice,2024-12-30,1969.80
+Uttar Pradesh,Rice,2024-12-31,1967.55
+Uttar Pradesh,Rice,2025-01-01,1965.50
+Uttar Pradesh,Rice,2025-01-02,1964.26
+Uttar Pradesh,Rice,2025-01-03,1963.22
+Uttar Pradesh,Rice,2025-01-04,1962.16
+Uttar Pradesh,Rice,2025-01-05,1961.08
+Uttar Pradesh,Rice,2025-01-06,1959.99
+Uttar Pradesh,Rice,2025-01-07,1958.95
+Uttar Pradesh,Rice,2025-01-08,1957.99
+Uttar Pradesh,Wheat,2024-10-11,2892.76
+Uttar Pradesh,Wheat,2024-10-12,2899.84
+Uttar Pradesh,Wheat,2024-10-13,2899.41
+Uttar Pradesh,Wheat,2024-10-14,2908.58
+Uttar Pradesh,Wheat,2024-10-15,2887.82
+Uttar Pradesh,Wheat,2024-10-16,2872.85
+Uttar Pradesh,Wheat,2024-10-17,2872.84
+Uttar Pradesh,Wheat,2024-10-18,2845.75
+Uttar Pradesh,Wheat,2024-10-19,2814.30
+Uttar Pradesh,Wheat,2024-10-20,2814.54
+Uttar Pradesh,Wheat,2024-10-21,2809.66
+Uttar Pradesh,Wheat,2024-10-22,2776.08
+Uttar Pradesh,Wheat,2024-10-23,2759.65
+Uttar Pradesh,Wheat,2024-10-24,2714.00
+Uttar Pradesh,Wheat,2024-10-25,2671.55
+Uttar Pradesh,Wheat,2024-10-26,2623.63
+Uttar Pradesh,Wheat,2024-10-27,2576.13
+Uttar Pradesh,Wheat,2024-10-28,2497.25
+Uttar Pradesh,Wheat,2024-10-29,2450.90
+Uttar Pradesh,Wheat,2024-10-30,2395.06
+Uttar Pradesh,Wheat,2024-10-31,2348.68
+Uttar Pradesh,Wheat,2024-11-01,2319.17
+Uttar Pradesh,Wheat,2024-11-02,2289.87
+Uttar Pradesh,Wheat,2024-11-03,2265.11
+Uttar Pradesh,Wheat,2024-11-04,2248.78
+Uttar Pradesh,Wheat,2024-11-05,2243.42
+Uttar Pradesh,Wheat,2024-11-06,2231.83
+Uttar Pradesh,Wheat,2024-11-07,2227.39
+Uttar Pradesh,Wheat,2024-11-08,2221.36
+Uttar Pradesh,Wheat,2024-11-09,2200.20
+Uttar Pradesh,Wheat,2024-11-10,2169.27
+Uttar Pradesh,Wheat,2024-11-11,2158.77
+Uttar Pradesh,Wheat,2024-11-12,2148.12
+Uttar Pradesh,Wheat,2024-11-13,2136.26
+Uttar Pradesh,Wheat,2024-11-14,2121.72
+Uttar Pradesh,Wheat,2024-11-15,2108.33
+Uttar Pradesh,Wheat,2024-11-16,2095.08
+Uttar Pradesh,Wheat,2024-11-17,2080.75
+Uttar Pradesh,Wheat,2024-11-18,2070.33
+Uttar Pradesh,Wheat,2024-11-19,2060.25
+Uttar Pradesh,Wheat,2024-11-20,2048.43
+Uttar Pradesh,Wheat,2024-11-21,2036.70
+Uttar Pradesh,Wheat,2024-11-22,2027.36
+Uttar Pradesh,Wheat,2024-11-23,2018.48
+Uttar Pradesh,Wheat,2024-11-24,2009.44
+Uttar Pradesh,Wheat,2024-11-25,2001.01
+Uttar Pradesh,Wheat,2024-11-26,1991.44
+Uttar Pradesh,Wheat,2024-11-27,1982.43
+Uttar Pradesh,Wheat,2024-11-28,1974.08
+Uttar Pradesh,Wheat,2024-11-29,1966.49
+Uttar Pradesh,Wheat,2024-11-30,1959.63
+Uttar Pradesh,Wheat,2024-12-01,1955.58
+Uttar Pradesh,Wheat,2024-12-02,1952.29
+Uttar Pradesh,Wheat,2024-12-03,1948.60
+Uttar Pradesh,Wheat,2024-12-04,1941.92
+Uttar Pradesh,Wheat,2024-12-05,1931.56
+Uttar Pradesh,Wheat,2024-12-06,1920.59
+Uttar Pradesh,Wheat,2024-12-07,1908.96
+Uttar Pradesh,Wheat,2024-12-08,1896.40
+Uttar Pradesh,Wheat,2024-12-09,1883.18
+Uttar Pradesh,Wheat,2024-12-10,1870.69
+Uttar Pradesh,Wheat,2024-12-11,1861.21
+Uttar Pradesh,Wheat,2024-12-12,1856.68
+Uttar Pradesh,Wheat,2024-12-13,1851.90
+Uttar Pradesh,Wheat,2024-12-14,1846.96
+Uttar Pradesh,Wheat,2024-12-15,1843.99
+Uttar Pradesh,Wheat,2024-12-16,1840.94
+Uttar Pradesh,Wheat,2024-12-17,1837.81
+Uttar Pradesh,Wheat,2024-12-18,1834.70
+Uttar Pradesh,Wheat,2024-12-19,1831.57
+Uttar Pradesh,Wheat,2024-12-20,1828.46
+Uttar Pradesh,Wheat,2024-12-21,1825.35
+Uttar Pradesh,Wheat,2024-12-22,1822.30
+Uttar Pradesh,Wheat,2024-12-23,1819.25
+Uttar Pradesh,Wheat,2024-12-24,1816.36
+Uttar Pradesh,Wheat,2024-12-25,1813.67
+Uttar Pradesh,Wheat,2024-12-26,1811.04
+Uttar Pradesh,Wheat,2024-12-27,1808.46
+Uttar Pradesh,Wheat,2024-12-28,1806.01
+Uttar Pradesh,Wheat,2024-12-29,1803.31
+Uttar Pradesh,Wheat,2024-12-30,1799.91
+Uttar Pradesh,Wheat,2024-12-31,1796.47
+Uttar Pradesh,Wheat,2025-01-01,1794.76
+Uttar Pradesh,Wheat,2025-01-02,1793.63
+Uttar Pradesh,Wheat,2025-01-03,1792.48
+Uttar Pradesh,Wheat,2025-01-04,1791.33
+Uttar Pradesh,Wheat,2025-01-05,1790.25
+Uttar Pradesh,Wheat,2025-01-06,1789.23
+Uttar Pradesh,Wheat,2025-01-07,1788.30
+Uttar Pradesh,Wheat,2025-01-08,1787.46

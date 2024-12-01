@@ -1,0 +1,41 @@
+State,Commodity,Date,Predicted_Modal_Price
+Bihar,Rice,2015-10-22,2385.32
+Bihar,Rice,2015-10-23,2407.04
+Bihar,Rice,2015-10-24,2329.09
+Bihar,Rice,2015-10-25,2344.78
+Bihar,Rice,2015-10-26,2274.26
+Bihar,Rice,2015-10-27,2293.78
+Bihar,Rice,2015-10-28,2242.25
+Bihar,Rice,2015-10-29,2252.66
+Bihar,Rice,2015-10-30,2219.54
+Bihar,Rice,2015-10-31,2246.06
+Bihar,Wheat,2015-10-22,1722.33
+Bihar,Wheat,2015-10-23,1723.74
+Bihar,Wheat,2015-10-24,1727.62
+Bihar,Wheat,2015-10-25,1728.63
+Bihar,Wheat,2015-10-26,1730.69
+Bihar,Wheat,2015-10-27,1731.37
+Bihar,Wheat,2015-10-28,1732.04
+Bihar,Wheat,2015-10-29,1732.70
+Bihar,Wheat,2015-10-30,1731.96
+Bihar,Wheat,2015-10-31,1731.60
+Uttar Pradesh,Rice,2024-10-11,3651.05
+Uttar Pradesh,Rice,2024-10-12,3688.64
+Uttar Pradesh,Rice,2024-10-13,3651.39
+Uttar Pradesh,Rice,2024-10-14,3698.37
+Uttar Pradesh,Rice,2024-10-15,3649.69
+Uttar Pradesh,Rice,2024-10-16,3673.78
+Uttar Pradesh,Rice,2024-10-17,3653.19
+Uttar Pradesh,Rice,2024-10-18,3610.86
+Uttar Pradesh,Rice,2024-10-19,3515.64
+Uttar Pradesh,Rice,2024-10-20,3537.10
+Uttar Pradesh,Wheat,2024-10-11,2983.74
+Uttar Pradesh,Wheat,2024-10-12,2985.19
+Uttar Pradesh,Wheat,2024-10-13,2988.09
+Uttar Pradesh,Wheat,2024-10-14,3000.09
+Uttar Pradesh,Wheat,2024-10-15,2983.93
+Uttar Pradesh,Wheat,2024-10-16,2978.25
+Uttar Pradesh,Wheat,2024-10-17,2988.68
+Uttar Pradesh,Wheat,2024-10-18,2944.94
+Uttar Pradesh,Wheat,2024-10-19,2906.58
+Uttar Pradesh,Wheat,2024-10-20,2893.01

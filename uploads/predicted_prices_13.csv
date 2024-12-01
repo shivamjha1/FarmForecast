@@ -1,0 +1,71 @@
+State,Commodity,Date,Predicted_Modal_Price
+Maharashtra,Pomegranate,2024-10-05,14558.68
+Maharashtra,Pomegranate,2024-10-06,14179.87
+Maharashtra,Pomegranate,2024-10-07,14635.90
+Maharashtra,Pomegranate,2024-10-08,14302.23
+Maharashtra,Pomegranate,2024-10-09,16416.81
+Maharashtra,Pomegranate,2024-10-10,15912.73
+Maharashtra,Pomegranate,2024-10-11,15071.55
+Maharashtra,Pomegranate,2024-10-12,13360.11
+Maharashtra,Pomegranate,2024-10-13,13314.49
+Maharashtra,Pomegranate,2024-10-14,12860.04
+Punjab,Apple,2015-12-30,2485.08
+Punjab,Apple,2015-12-31,3265.65
+Punjab,Apple,2016-01-01,3378.12
+Punjab,Apple,2016-01-02,3293.58
+Punjab,Apple,2016-01-03,3413.81
+Punjab,Apple,2016-01-04,1629.47
+Punjab,Apple,2016-01-05,1626.33
+Punjab,Apple,2016-01-06,1771.47
+Punjab,Apple,2016-01-07,939.32
+Punjab,Apple,2016-01-08,68.37
+Punjab,Banana,2014-12-27,4407.86
+Punjab,Banana,2014-12-28,4465.01
+Punjab,Banana,2014-12-29,4335.86
+Punjab,Banana,2014-12-30,4314.98
+Punjab,Banana,2014-12-31,4243.46
+Punjab,Banana,2015-01-01,4143.01
+Punjab,Banana,2015-01-02,4018.18
+Punjab,Banana,2015-01-03,4110.86
+Punjab,Banana,2015-01-04,4041.48
+Punjab,Banana,2015-01-05,4009.87
+Punjab,Papaya,2015-01-01,3662.40
+Punjab,Papaya,2015-01-02,3645.73
+Punjab,Papaya,2015-01-03,3644.05
+Punjab,Papaya,2015-01-04,3645.94
+Punjab,Papaya,2015-01-05,3641.75
+Punjab,Papaya,2015-01-06,3626.26
+Punjab,Papaya,2015-01-07,3622.78
+Punjab,Papaya,2015-01-08,3629.29
+Punjab,Papaya,2015-01-09,3626.16
+Punjab,Papaya,2015-01-10,3621.86
+Tamil Nadu,Banana,2024-10-11,11447.11
+Tamil Nadu,Banana,2024-10-12,11504.06
+Tamil Nadu,Banana,2024-10-13,11247.02
+Tamil Nadu,Banana,2024-10-14,11307.94
+Tamil Nadu,Banana,2024-10-15,11537.37
+Tamil Nadu,Banana,2024-10-16,11081.42
+Tamil Nadu,Banana,2024-10-17,11009.62
+Tamil Nadu,Banana,2024-10-18,10699.30
+Tamil Nadu,Banana,2024-10-19,10873.00
+Tamil Nadu,Banana,2024-10-20,9414.63
+Tamil Nadu,Custard Apple (Sharifa),2024-10-11,4322.12
+Tamil Nadu,Custard Apple (Sharifa),2024-10-12,4264.51
+Tamil Nadu,Custard Apple (Sharifa),2024-10-13,4335.20
+Tamil Nadu,Custard Apple (Sharifa),2024-10-14,4340.31
+Tamil Nadu,Custard Apple (Sharifa),2024-10-15,4259.82
+Tamil Nadu,Custard Apple (Sharifa),2024-10-16,4226.30
+Tamil Nadu,Custard Apple (Sharifa),2024-10-17,4168.52
+Tamil Nadu,Custard Apple (Sharifa),2024-10-18,4142.19
+Tamil Nadu,Custard Apple (Sharifa),2024-10-19,3993.68
+Tamil Nadu,Custard Apple (Sharifa),2024-10-20,3923.93
+Tamil Nadu,Guava,2024-10-11,9711.22
+Tamil Nadu,Guava,2024-10-12,9805.56
+Tamil Nadu,Guava,2024-10-13,9588.78
+Tamil Nadu,Guava,2024-10-14,10954.17
+Tamil Nadu,Guava,2024-10-15,11099.37
+Tamil Nadu,Guava,2024-10-16,11118.04
+Tamil Nadu,Guava,2024-10-17,11340.46
+Tamil Nadu,Guava,2024-10-18,12233.69
+Tamil Nadu,Guava,2024-10-19,11954.51
+Tamil Nadu,Guava,2024-10-20,11171.52
