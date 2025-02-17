@@ -5,8 +5,40 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Upload CSV</title>
     <link rel="stylesheet" href="/static/upload_styles.css">
+    <style>
+        
+        /* Navigation Bar */
+        .navbar {
+            background-color: #2e8b57;
+            padding: 10px 0;
+            text-align: center;
+            width: 100%;
+            position: fixed;
+            top: 0;
+            left: 0;
+        }
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 18px;
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+
+        .navbar a:hover {
+            color: #a9dfbf;
+        }
+    </style>
 </head>
 <body>
+    <!-- Navigation Bar -->
+    <div class="navbar">
+        <a href="{% url 'home' %}">Home</a>
+        <a href="{% url "upload_csv"  %}" class="card">Visualization</a>
+        <a href="#">Contact Us</a>
+    </div>
+    
     <div class="upload-container">
         <h1>Upload CSV File</h1>
         <form method="POST" enctype="multipart/form-data">
