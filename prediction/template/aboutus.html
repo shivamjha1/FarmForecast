@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About Us</title>
+    <style>
+        
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f9f4;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+/* Navigation Bar */
+/* Navigation Bar */
+.navbar {
+    background-color: #03140a;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.navbar a:hover {
+    color: #a9dfbf;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar ul li {
+    margin: 0 15px;
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease;
+    border-radius: 5px;
+}
+
+.navbar ul li a:hover {
+    background-color: #d20000;
+}
+        .container {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            padding: 40px;
+        }
+        .section {
+            width: 400px;
+            padding: 30px;
+            background-color: #e8f5e9;
+            border: 2px solid #c8e6c9;
+            border-radius: 16px;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+        .section:hover {
+            transform: translateY(-5px);
+        }
+        .image-frame {
+            width: 150px;
+            height: 150px;
+            border: 3px solid #2e7d32;
+            border-radius: 50%;
+            overflow: hidden;
+            margin-bottom: 20px;
+            background-color: #ffffff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .image-frame img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        h1 {
+            text-align: center;
+            color: #1b5e20;
+            margin-top: 30px;
+            margin-bottom: 40px;
+            font-size: 2.5rem;
+        }
+        h2 {
+            margin-bottom: 10px;
+            color: #1b5e20;
+            font-size: 1.8rem;
+        }
+        p {
+            color: #388e3c;
+            font-size: 1.1rem;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <ul>
+            <li><a href="{% url 'homepage'  %}">Home</a></li>
+            <li><a href="{% url 'home'  %}">Categories</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <h1>About Us</h1>
+    <div class="container">
+        <div class="section">
+            <div class="image-frame">
+                <img src="/static/invincible.jpg"/>
+            </div>
+            <h2>Shivam Kumar Jha</h2>
+            <p>Hello my name is Shivam Kumar Jha, I am a 4th year computer science and engineering student at ABES engineering college. </p>
+        </div>
+        <div class="section">
+            <div class="image-frame">
+                <img src="/static/spidy.jpg" alt="Writer 2" />
+            </div>
+            <h2>Vasu Pratap Singh</h2>
+            <p>Hello my name is Vasu Pratap Singh, I am a 4th year computer science and engineering student at ABES engineering college.</p>
+        </div>
+    </div>
+</body>
+</html>

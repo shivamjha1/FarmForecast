@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FarmForecast</title>
+    <link rel="stylesheet" href="/static/homepage.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="logo">FarmForecast</div>
+        <ul class="nav-links">
+            <li><a href="#" class="active">Home</a></li>
+            <li><a href="{% url 'home'  %}">Categories</a></li>
+            <li><a href="{% url 'aboutus'  %}">About Us</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <img src="/static/farm_background.jpg" alt="Crops Background" class="hero-bg">
+        <h1 class="hero-title">FarmForecast</h1>
+        <p class="hero-tagline">AI-Powered Crop Price Predictions for a Smarter Future</p>
+    </section>
+
+    <!-- About Section -->
+    <section class="about">
+        <h2>About FarmForecast</h2>
+        <div class="about-content">
+            <p>Welcome to FarmForecast, where cutting-edge AI meets agriculture. Our platform uses advanced Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) models to analyze historical crop price data and predict future trends with precision. Whether you're a farmer, trader, or enthusiast, FarmForecast empowers you with insights to make informed decisions and grow smarter.</p>
+            <img src="/static/farming.jpg" alt="Farmer in Field" class="about-img">
+        </div>
+    </section>
+
+    <!-- Tools & Tech Section -->
+    <section class="tech">
+        <h2>Tools & Technologies</h2>
+        <div class="tech-grid">
+            <div class="tech-card">
+                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Django Logo" class="tech-logo">
+                <h3>Django</h3><p>Backend powerhouse for seamless functionality.</p>
+            </div>
+            <div class="tech-card">
+                <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="ML Logo" class="tech-logo">
+                <h3>Machine Learning</h3><p>Drives our predictive AI models.</p>
+            </div>
+            <div class="tech-card">
+                <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="HTML Logo" class="tech-logo">
+                <h3>HTML/CSS/JS</h3><p>Crafts a dynamic, user-friendly interface.</p>
+            </div>
+            <div class="tech-card">
+                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Matplotlib Logo" class="tech-logo">
+                <h3>Matplotlib</h3><p>Visualizes data trends with clarity.</p>
+            </div>
+            <div class="tech-card">
+                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Chart.js Logo" class="tech-logo">
+                <h3>Chart.js</h3><p>Brings interactive charts to life.</p>
+            </div>
+            <div class="tech-card">
+                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="SQLite Logo" class="tech-logo">
+                <h3>SQLite</h3><p>Lightweight database for efficient storage.</p>
+            </div>
+            <div class="tech-card">
+                <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Data Science Logo" class="tech-logo">
+                <h3>Data Science</h3><p>The brain behind our insights.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>© 2025 FarmForecast. Powered by xAI.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

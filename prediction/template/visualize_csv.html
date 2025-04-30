@@ -96,51 +96,84 @@
             <canvas id="chart-{{ forloop.counter }}" width="400" height="200"></canvas>
             <script>
                 document.addEventListener("DOMContentLoaded", function () {
-                    const ctx{{ forloop.counter }} = document.getElementById('chart-{{ forloop.counter }}').getContext('2d');
-                    const data{{ forloop.counter }} = {
-                        labels: {{ graph.dates|safe }},
-                        datasets: [{
-                            label: 'Predicted Modal Price',
-                            data: {{ graph.prices|safe }},
-                            backgroundColor: 'rgba(34, 139, 34, 0.2)', /* Green background */
-                            borderColor: 'rgba(34, 139, 34, 1)', /* Green border */
-                            borderWidth: 2,
-                            fill: true,
-                            tension: 0.4
-                        }]
-                    };
-                    const config{{ forloop.counter }} = {
-                        type: 'line',
-                        data: data{{ forloop.counter }},
-                        options: {
-                            responsive: true,
-                            plugins: {
-                            
-                            },
-                            scales: {
-                                x: {
-                                    title: { 
-                                        display: true, 
-                                        text: 'Date', 
-                                        color: '#2f4f2f' 
-                                    },
-                                    ticks: { color: '#2f4f2f' }
-                                },
-                                y: {
-                                    title: { 
-                                        display: true, 
-                                        text: 'Predicted Modal Price', 
-                                        color: '#2f4f2f' 
-                                    },
-                                    ticks: { color: '#2f4f2f' },
-                                    beginAtZero: true
-                                }
-                            }
-                        }
-                    };
-                    new Chart(ctx{{ forloop.counter }}, config{{ forloop.counter }});
-                });
+    const ctx{{ forloop.counter }} = document.getElementById('chart-{{ forloop.counter }}').getContext('2d');
+    const gradient = ctx{{ forloop.counter }}.createLinearGradient(0, 0, 0, 400);
+    gradient.addColorStop(0, 'rgba(34, 139, 34, 0.4)');
+    gradient.addColorStop(1, 'rgba(34, 139, 34, 0)');
+
+    const data{{ forloop.counter }} = {
+        labels: {{ graph.dates|safe }},
+        datasets: [{
+            label: 'Predicted Modal Price',
+            data: {{ graph.prices|safe }},
+            backgroundColor: gradient,
+            borderColor: 'rgba(34, 139, 34, 1)',
+            borderWidth: 2,
+            pointRadius: 3,
+            pointBackgroundColor: 'rgba(34, 139, 34, 1)',
+            fill: true,
+            tension: 0.4
+        }]
+    };
+
+    const config{{ forloop.counter }} = {
+        type: 'line',
+        data: data{{ forloop.counter }},
+        options: {
+    responsive: true,
+    plugins: {
+        legend: {
+            labels: {
+                color: '#2f4f2f',
+                font: {
+                    size: 14
+                }
+            }
+        },
+        tooltip: {
+            callbacks: {
+                label: function(context) {
+                    return `₹ ${context.raw}`;
+                }
+            }
+        }
+    },
+    scales: {
+        x: {
+            title: { 
+                display: true, 
+                text: 'Date', 
+                color: '#2f4f2f' 
+            },
+            ticks: { color: '#2f4f2f' }
+        },
+        y: {
+            title: { 
+                display: true, 
+                text: 'Predicted Modal Price (₹)', 
+                color: '#2f4f2f' 
+            },
+            ticks: { 
+                color: '#2f4f2f',
+                stepSize: 50  // Adjust step size for more visible variation
+            },
+            suggestedMin: Math.min(...{{ graph.prices|safe }}) - 100, 
+            suggestedMax: Math.max(...{{ graph.prices|safe }}) + 100
+        }
+            },
+            animation: {
+                duration: 1000,
+                easing: 'easeInOutQuad'
+            }
+        }
+    };
+
+    new Chart(ctx{{ forloop.counter }}, config{{ forloop.counter }});
+});
+
             </script>
+            
+
         </div>
         {% endfor %}
     </div>

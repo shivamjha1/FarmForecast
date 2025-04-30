@@ -10,17 +10,10 @@ from django.shortcuts import render
 from django.http import HttpResponse
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import MinMaxScaler
 from tensorflow.keras.models import load_model
-import matplotlib.pyplot as plt
 from django.conf import settings
 import io
 import json
-
-
-
-import pandas as pd
-import numpy as np
 import os
 from django.conf import settings
 from django.core.files.storage import default_storage
@@ -29,7 +22,11 @@ from sklearn.preprocessing import MinMaxScaler, LabelEncoder
 def home(request):
     return render(request, 'prediction/template/page.html')
 
+def homepage(request):
+    return render(request, 'prediction/template/homepage.html')
 
+def aboutus(request):
+    return render(request, 'prediction/template/aboutus.html')
 
 def upload_csv(request):
     if request.method == 'POST':
