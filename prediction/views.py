@@ -19,8 +19,8 @@ from django.conf import settings
 from django.core.files.storage import default_storage
 from sklearn.preprocessing import MinMaxScaler, LabelEncoder
 
-def home(request):
-    return render(request, 'prediction/template/page.html')
+def categories(request):
+    return render(request, 'prediction/template/categories.html')
 
 def homepage(request):
     return render(request, 'prediction/template/homepage.html')
@@ -93,11 +93,11 @@ def file_upload_view(request, category):
             df_cleaned = pd.read_csv(file_path)
 
             # Load your pre-trained model
-            model = load_model(os.path.join(settings.BASE_DIR, f'{category}_model.h5'), compile=False)  # Adjust model path
+            model = load_model(os.path.join(settings.BASE_DIR, f'models\{category}_model.h5'), compile=False)  # Adjust model path
 
             # Load label encoders for State and Commodity from CSV
-            le_state = load_label_encoder(os.path.join(settings.BASE_DIR, f'{category}_state_encoded.csv'))
-            le_commodity = load_label_encoder(os.path.join(settings.BASE_DIR, f'{category}_commodity_encoded.csv'))
+            le_state = load_label_encoder(os.path.join(settings.BASE_DIR, f'encoders\{category}_state_encoded.csv'))
+            le_commodity = load_label_encoder(os.path.join(settings.BASE_DIR, f'encoders\{category}_commodity_encoded.csv'))
 
             # Fit the scaler on the price columns
             scaler = MinMaxScaler()

@@ -5,7 +5,7 @@ from . import views
 
 urlpatterns = [
     path('', views.homepage, name='homepage'),
-    path('categories/', views.home, name='home'),
+    path('categories/', views.categories, name='categories'),
     #path('upload/', views.upload_data, name='upload-data'),
     #path('upload_file/visualizaations', views.file_visualize, name='file-visualize'),
     path('upload_file/<str:category>', views.file_upload_view, name='file-upload'),
