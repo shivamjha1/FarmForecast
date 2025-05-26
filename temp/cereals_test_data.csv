@@ -1,0 +1,220 @@
+﻿State,Commodity,Arrival_Date,Min_Price,Max_Price,Modal_Price
+Madhya Pradesh,Wheat,27-09-2024,2540,2620,2550
+Madhya Pradesh,Wheat,28-09-2024,2600,2600,2600
+Madhya Pradesh,Wheat,28-09-2024,2550,2570,2560
+Madhya Pradesh,Wheat,30-09-2024,2630,2815,2814
+Madhya Pradesh,Wheat,30-09-2024,2630,2640,2640
+Madhya Pradesh,Wheat,30-09-2024,2681,2820,2690
+Madhya Pradesh,Wheat,30-09-2024,2550,2650,2560
+Madhya Pradesh,Wheat,30-09-2024,2500,2650,2570
+Madhya Pradesh,Wheat,01-10-2024,2560,2881,2881
+Madhya Pradesh,Wheat,01-10-2024,2560,2575,2575
+Madhya Pradesh,Wheat,01-10-2024,2667,2945,2676
+Madhya Pradesh,Wheat,03-10-2024,2785,2847,2847
+Madhya Pradesh,Wheat,03-10-2024,2772,2850,2850
+Madhya Pradesh,Wheat,03-10-2024,2640,2650,2650
+Madhya Pradesh,Wheat,04-10-2024,2608,2675,2675
+Madhya Pradesh,Wheat,04-10-2024,2666,3000,2815
+Madhya Pradesh,Wheat,04-10-2024,2550,2565,2565
+Madhya Pradesh,Wheat,05-10-2024,2670,2690,2690
+Madhya Pradesh,Wheat,05-10-2024,2670,2971,2700
+Madhya Pradesh,Wheat,07-10-2024,2703,2831,2801
+Madhya Pradesh,Wheat,07-10-2024,2091,2901,2827
+Madhya Pradesh,Wheat,07-10-2024,2530,2720,2700
+Madhya Pradesh,Wheat,08-10-2024,2771,2876,2876
+Madhya Pradesh,Wheat,08-10-2024,2525,2876,2801
+Madhya Pradesh,Wheat,08-10-2024,2670,2851,2851
+Madhya Pradesh,Wheat,08-10-2024,2540,2700,2560
+Madhya Pradesh,Wheat,09-10-2024,2652,2826,2660
+Madhya Pradesh,Wheat,09-10-2024,1701,3030,2811
+Madhya Pradesh,Wheat,09-10-2024,2560,2660,2570
+Madhya Pradesh,Wheat,10-10-2024,2560,2660,2570
+Uttar Pradesh,Rice,27-09-2024,3220,3240,3230
+Uttar Pradesh,Rice,27-09-2024,3200,3320,3250
+Uttar Pradesh,Rice,28-09-2024,2900,3050,2980
+Uttar Pradesh,Rice,28-09-2024,3200,3240,3220
+Uttar Pradesh,Rice,28-09-2024,3200,3340,3260
+Uttar Pradesh,Rice,30-09-2024,2900,3050,2980
+Uttar Pradesh,Rice,30-09-2024,3220,3240,3230
+Uttar Pradesh,Rice,30-09-2024,3220,3350,3280
+Uttar Pradesh,Rice,01-10-2024,2900,3050,2980
+Uttar Pradesh,Rice,01-10-2024,3220,3260,3240
+Uttar Pradesh,Rice,01-10-2024,3200,3320,3250
+Uttar Pradesh,Rice,02-10-2024,2900,3000,2950
+Uttar Pradesh,Rice,03-10-2024,2900,3050,2960
+Uttar Pradesh,Rice,04-10-2024,2900,3100,3000
+Uttar Pradesh,Rice,04-10-2024,3230,3250,3240
+Uttar Pradesh,Rice,04-10-2024,3200,3300,3250
+Uttar Pradesh,Rice,05-10-2024,2900,3100,3000
+Uttar Pradesh,Rice,05-10-2024,3220,3260,3240
+Uttar Pradesh,Rice,05-10-2024,3200,3320,3260
+Uttar Pradesh,Rice,06-10-2024,3220,3240,3230
+Uttar Pradesh,Rice,07-10-2024,2900,3050,2950
+Uttar Pradesh,Rice,07-10-2024,3220,3260,3240
+Uttar Pradesh,Rice,07-10-2024,3180,3300,3240
+Uttar Pradesh,Rice,08-10-2024,2900,3050,2960
+Uttar Pradesh,Rice,08-10-2024,3220,3240,3230
+Uttar Pradesh,Rice,08-10-2024,3180,3280,3230
+Uttar Pradesh,Rice,09-10-2024,2900,3190,3020
+Uttar Pradesh,Rice,09-10-2024,3220,3240,3230
+Uttar Pradesh,Rice,09-10-2024,3200,3300,3250
+Uttar Pradesh,Rice,10-10-2024,2900,3120,3010
+Uttar Pradesh,Rice,10-10-2024,3250,3360,3300
+Uttar Pradesh,Wheat,01-10-2024,2580,2710,2630
+Uttar Pradesh,Wheat,01-10-2024,2620,2700,2660
+Uttar Pradesh,Wheat,01-10-2024,2685,2706,2699
+Uttar Pradesh,Wheat,02-10-2024,2600,2750,2700
+Uttar Pradesh,Wheat,03-10-2024,2650,2750,2700
+Uttar Pradesh,Wheat,03-10-2024,2680,2780,2700
+Uttar Pradesh,Wheat,04-10-2024,2600,2800,2700
+Uttar Pradesh,Wheat,04-10-2024,2720,2800,2760
+Uttar Pradesh,Wheat,04-10-2024,2680,2800,2710
+Uttar Pradesh,Wheat,04-10-2024,2740,2790,2760
+Uttar Pradesh,Wheat,05-10-2024,2600,2750,2700
+Uttar Pradesh,Wheat,05-10-2024,2680,2820,2760
+Uttar Pradesh,Wheat,05-10-2024,2700,2800,2730
+Uttar Pradesh,Wheat,05-10-2024,2750,2780,2760
+Uttar Pradesh,Wheat,06-10-2024,2600,2720,2660
+Uttar Pradesh,Wheat,06-10-2024,2750,2788,2770
+Uttar Pradesh,Wheat,07-10-2024,2650,2800,2710
+Uttar Pradesh,Wheat,07-10-2024,2700,2800,2760
+Uttar Pradesh,Wheat,07-10-2024,2700,2800,2720
+Uttar Pradesh,Wheat,07-10-2024,2740,2780,2760
+Uttar Pradesh,Wheat,08-10-2024,2650,2750,2700
+Uttar Pradesh,Wheat,08-10-2024,2680,2790,2740
+Uttar Pradesh,Wheat,08-10-2024,2690,2780,2710
+Uttar Pradesh,Wheat,08-10-2024,2700,2788,2740
+Uttar Pradesh,Wheat,09-10-2024,2600,2780,2700
+Uttar Pradesh,Wheat,09-10-2024,2700,2820,2760
+Uttar Pradesh,Wheat,09-10-2024,2730,2800,2750
+Uttar Pradesh,Wheat,09-10-2024,2760,2800,2780
+Uttar Pradesh,Wheat,10-10-2024,2600,2800,2710
+Uttar Pradesh,Wheat,10-10-2024,2720,2800,2740
+Uttar Pradesh,Wheat,10-10-2024,2780,2800,2790
+Maharashtra,Wheat,03-09-2024,2200,2800,2500
+Maharashtra,Wheat,03-09-2024,2400,2800,2600
+Maharashtra,Wheat,04-09-2024,2470,2470,2470
+Maharashtra,Wheat,05-09-2024,2500,3800,3150
+Maharashtra,Wheat,05-09-2024,2540,2551,2547
+Maharashtra,Wheat,06-09-2024,2500,3500,3000
+Maharashtra,Wheat,10-09-2024,2500,3500,3000
+Maharashtra,Wheat,11-09-2024,2250,2800,2525
+Maharashtra,Wheat,11-09-2024,2500,3800,3150
+Maharashtra,Wheat,12-09-2024,2600,2800,2700
+Maharashtra,Wheat,12-09-2024,3261,3261,3261
+Maharashtra,Wheat,13-09-2024,2601,3500,3050
+Maharashtra,Wheat,17-09-2024,2500,2700,2600
+Maharashtra,Wheat,18-09-2024,2500,4000,3250
+Maharashtra,Wheat,19-09-2024,2600,2800,2700
+Maharashtra,Wheat,20-09-2024,2500,4000,3250
+Maharashtra,Wheat,23-09-2024,2300,2600,2450
+Maharashtra,Wheat,24-09-2024,2600,2800,2700
+Maharashtra,Wheat,24-09-2024,2500,3000,2750
+Maharashtra,Wheat,25-09-2024,2500,3000,2750
+Maharashtra,Wheat,26-09-2024,2600,2800,2700
+Maharashtra,Wheat,27-09-2024,2600,2800,2700
+Maharashtra,Wheat,27-09-2024,2600,2800,2700
+Maharashtra,Wheat,27-09-2024,2586,3176,2750
+Maharashtra,Wheat,30-09-2024,2500,2900,2700
+Maharashtra,Wheat,03-10-2024,2700,2860,2780
+Maharashtra,Wheat,03-10-2024,2692,3300,2847
+Maharashtra,Wheat,04-10-2024,2650,2750,2700
+Maharashtra,Wheat,04-10-2024,2400,3000,2700
+Maharashtra,Wheat,05-10-2024,2400,3000,2700
+Maharashtra,Wheat,07-10-2024,2500,3100,2800
+Maharashtra,Wheat,09-10-2024,2600,2700,2650
+Haryana,Wheat,15-04-2024,2275,2275,2275
+Haryana,Wheat,16-04-2024,2275,2275,2275
+Haryana,Wheat,18-04-2024,2275,2275,2275
+Haryana,Wheat,19-04-2024,2275,2285,2275
+Haryana,Wheat,19-04-2024,2275,2275,2275
+Haryana,Wheat,20-04-2024,2275,2280,2275
+Haryana,Wheat,24-04-2024,2275,2275,2275
+Haryana,Wheat,25-04-2024,2275,2280,2275
+Haryana,Wheat,26-04-2024,2275,2275,2275
+Haryana,Wheat,26-04-2024,2275,2275,2275
+Haryana,Wheat,27-04-2024,2275,2275,2275
+Haryana,Wheat,27-04-2024,2275,2275,2275
+Haryana,Wheat,29-04-2024,2275,2275,2275
+Haryana,Wheat,30-04-2024,2275,2280,2275
+Haryana,Wheat,30-04-2024,2275,2275,2275
+Haryana,Wheat,01-05-2024,2275,2280,2275
+Haryana,Wheat,02-05-2024,2275,2280,2275
+Haryana,Wheat,03-05-2024,2280,2280,2280
+Haryana,Wheat,03-05-2024,2275,2275,2275
+Haryana,Wheat,04-05-2024,2275,2280,2275
+Haryana,Wheat,06-05-2024,2275,2275,2275
+Haryana,Wheat,07-05-2024,2275,2275,2275
+Haryana,Wheat,07-05-2024,2275,2275,2275
+Haryana,Wheat,09-05-2024,2275,2275,2275
+Haryana,Wheat,10-05-2024,2290,2300,2290
+Haryana,Wheat,10-05-2024,2275,2275,2275
+Haryana,Wheat,11-05-2024,2275,2300,2275
+Haryana,Wheat,11-05-2024,2275,2275,2275
+Haryana,Wheat,13-05-2024,2275,2290,2275
+Haryana,Wheat,14-05-2024,2275,2275,2275
+Haryana,Wheat,15-05-2024,2280,2290,2290
+Haryana,Wheat,18-05-2024,2275,2275,2275
+Uttar Pradesh,Barley (Jau),18-09-2024,2330,2390,2360
+Uttar Pradesh,Barley (Jau),18-09-2024,2390,2440,2410
+Uttar Pradesh,Barley (Jau),19-09-2024,2400,2450,2420
+Uttar Pradesh,Barley (Jau),20-09-2024,2340,2400,2370
+Uttar Pradesh,Barley (Jau),20-09-2024,2380,2430,2400
+Uttar Pradesh,Barley (Jau),21-09-2024,2380,2440,2410
+Uttar Pradesh,Barley (Jau),21-09-2024,2390,2440,2410
+Uttar Pradesh,Barley (Jau),22-09-2024,2400,2480,2440
+Uttar Pradesh,Barley (Jau),23-09-2024,2400,2440,2420
+Uttar Pradesh,Barley (Jau),23-09-2024,2400,2450,2420
+Uttar Pradesh,Barley (Jau),24-09-2024,2340,2420,2380
+Uttar Pradesh,Barley (Jau),24-09-2024,2380,2430,2400
+Uttar Pradesh,Barley (Jau),25-09-2024,2320,2400,2360
+Uttar Pradesh,Barley (Jau),25-09-2024,2390,2440,2410
+Uttar Pradesh,Barley (Jau),26-09-2024,2370,2420,2390
+Uttar Pradesh,Barley (Jau),27-09-2024,2320,2380,2350
+Uttar Pradesh,Barley (Jau),27-09-2024,2380,2430,2400
+Uttar Pradesh,Barley (Jau),28-09-2024,2340,2340,2340
+Uttar Pradesh,Barley (Jau),30-09-2024,2400,2400,2400
+Uttar Pradesh,Barley (Jau),01-10-2024,2300,2380,2340
+Uttar Pradesh,Barley (Jau),01-10-2024,2360,2410,2380
+Uttar Pradesh,Barley (Jau),04-10-2024,2340,2400,2380
+Uttar Pradesh,Barley (Jau),04-10-2024,2430,2480,2450
+Uttar Pradesh,Barley (Jau),05-10-2024,2380,2440,2410
+Uttar Pradesh,Barley (Jau),05-10-2024,2400,2450,2420
+Uttar Pradesh,Barley (Jau),06-10-2024,2350,2420,2390
+Uttar Pradesh,Barley (Jau),07-10-2024,2410,2410,2410
+Uttar Pradesh,Barley (Jau),07-10-2024,2400,2430,2410
+Uttar Pradesh,Barley (Jau),08-10-2024,2400,2420,2410
+Uttar Pradesh,Barley (Jau),08-10-2024,2400,2450,2420
+Uttar Pradesh,Barley (Jau),09-10-2024,2410,2410,2410
+Uttar Pradesh,Barley (Jau),10-10-2024,2400,2450,2420
+Punjab,Paddy(Dhan)(Basmati),15-11-2023,4075,4365,4240
+Punjab,Paddy(Dhan)(Basmati),15-11-2023,2900,3800,3300
+Punjab,Paddy(Dhan)(Basmati),16-11-2023,3900,4331,4260
+Punjab,Paddy(Dhan)(Basmati),16-11-2023,2900,3860,3860
+Punjab,Paddy(Dhan)(Basmati),18-11-2023,3100,3811,3265
+Punjab,Paddy(Dhan)(Basmati),18-11-2023,3900,4465,4200
+Punjab,Paddy(Dhan)(Basmati),19-11-2023,4100,4375,4200
+Punjab,Paddy(Dhan)(Basmati),19-11-2023,3175,4000,3700
+Punjab,Paddy(Dhan)(Basmati),20-11-2023,4361,4500,4361
+Punjab,Paddy(Dhan)(Basmati),20-11-2023,3275,4000,3600
+Punjab,Paddy(Dhan)(Basmati),21-11-2023,4000,4625,4550
+Punjab,Paddy(Dhan)(Basmati),21-11-2023,3050,3550,3250
+Punjab,Paddy(Dhan)(Basmati),22-11-2023,4000,4785,4600
+Punjab,Paddy(Dhan)(Basmati),22-11-2023,3200,3800,3500
+Punjab,Paddy(Dhan)(Basmati),24-11-2023,4381,4731,4600
+Punjab,Paddy(Dhan)(Basmati),24-11-2023,3321,4546,3450
+Punjab,Paddy(Dhan)(Basmati),25-11-2023,3375,4321,3585
+Punjab,Paddy(Dhan)(Basmati),25-11-2023,4300,4751,4600
+Punjab,Paddy(Dhan)(Basmati),26-11-2023,3400,4300,3575
+Punjab,Paddy(Dhan)(Basmati),27-11-2023,3400,4731,3600
+Punjab,Paddy(Dhan)(Basmati),27-11-2023,4350,4751,4525
+Punjab,Paddy(Dhan)(Basmati),28-11-2023,4411,4782,4600
+Punjab,Paddy(Dhan)(Basmati),28-11-2023,3600,4770,4500
+Punjab,Paddy(Dhan)(Basmati),29-11-2023,3500,4511,3950
+Punjab,Paddy(Dhan)(Basmati),29-11-2023,4400,4705,4590
+Punjab,Paddy(Dhan)(Basmati),30-11-2023,3800,4600,4350
+Punjab,Paddy(Dhan)(Basmati),30-11-2023,3615,4621,4340
+Punjab,Paddy(Dhan)(Basmati),01-12-2023,4500,4621,4500
+Punjab,Paddy(Dhan)(Basmati),01-12-2023,3300,4680,3700
+Punjab,Paddy(Dhan)(Basmati),02-12-2023,4050,4770,4050
+Punjab,Paddy(Dhan)(Basmati),02-12-2023,3725,4725,4400

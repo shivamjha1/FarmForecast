@@ -1,0 +1,159 @@
+﻿State,Commodity,Arrival_Date,Min_Price,Max_Price,Modal_Price
+Uttar Pradesh,Apple,20-09-2024,6800,7250,7050
+Uttar Pradesh,Apple,21-09-2024,7900,8120,8050
+Uttar Pradesh,Apple,21-09-2024,6900,7400,7100
+Uttar Pradesh,Apple,21-09-2024,10000,11000,10000
+Uttar Pradesh,Apple,23-09-2024,7800,8000,7900
+Uttar Pradesh,Apple,23-09-2024,6800,7300,6950
+Uttar Pradesh,Apple,23-09-2024,10000,11000,11000
+Uttar Pradesh,Apple,24-09-2024,7500,7750,7650
+Uttar Pradesh,Apple,24-09-2024,6800,7400,7000
+Uttar Pradesh,Apple,25-09-2024,7500,7740,7650
+Uttar Pradesh,Apple,25-09-2024,6700,7200,6920
+Uttar Pradesh,Apple,26-09-2024,7500,7700,7600
+Uttar Pradesh,Apple,26-09-2024,6600,7100,6800
+Uttar Pradesh,Apple,27-09-2024,7500,7740,7650
+Uttar Pradesh,Apple,27-09-2024,6500,7000,6750
+Uttar Pradesh,Apple,28-09-2024,7500,7700,7600
+Uttar Pradesh,Apple,28-09-2024,6600,7100,6800
+Uttar Pradesh,Apple,30-09-2024,7500,7700,7600
+Uttar Pradesh,Apple,30-09-2024,6400,7000,6700
+Uttar Pradesh,Apple,01-10-2024,7500,7700,7600
+Uttar Pradesh,Apple,02-10-2024,7500,7750,7650
+Uttar Pradesh,Apple,02-10-2024,6300,6800,6600
+Uttar Pradesh,Apple,03-10-2024,7500,7750,7660
+Uttar Pradesh,Apple,03-10-2024,6200,6800,6500
+Uttar Pradesh,Apple,04-10-2024,8000,8200,8100
+Uttar Pradesh,Apple,04-10-2024,6300,6800,6550
+Uttar Pradesh,Apple,04-10-2024,6000,7000,7000
+Uttar Pradesh,Apple,05-10-2024,7500,7700,7600
+Uttar Pradesh,Apple,05-10-2024,6100,6600,6400
+Uttar Pradesh,Apple,07-10-2024,7400,7600,7500
+Uttar Pradesh,Apple,07-10-2024,6000,6500,6200
+Uttar Pradesh,Apple,08-10-2024,7400,7600,7500
+Uttar Pradesh,Apple,08-10-2024,5800,6300,6000
+Uttar Pradesh,Apple,09-10-2024,7300,7500,7400
+Uttar Pradesh,Apple,09-10-2024,5900,6300,6050
+Uttar Pradesh,Apple,10-10-2024,7300,7500,7400
+Uttar Pradesh,Apple,10-10-2024,5700,6200,5900
+Maharashtra,Orange,10-07-2020,2000,6500,4250
+Maharashtra,Orange,21-07-2020,2000,6000,4000
+Maharashtra,Orange,10-04-2021,2000,20000,11000
+Maharashtra,Orange,11-07-2021,2000,7000,4500
+Maharashtra,Orange,14-08-2021,1000,8000,4500
+Maharashtra,Orange,04-09-2021,1000,4000,2500
+Maharashtra,Orange,27-06-2022,2000,6000,4000
+Maharashtra,Orange,28-06-2022,1500,7000,4250
+Maharashtra,Orange,30-06-2022,1800,7000,4400
+Maharashtra,Orange,03-07-2022,3000,10000,6500
+Maharashtra,Orange,30-07-2022,1000,5500,3250
+Maharashtra,Orange,06-08-2022,1000,8000,4500
+Maharashtra,Orange,28-02-2023,1000,4500,2750
+Maharashtra,Orange,21-07-2023,2000,8000,5000
+Maharashtra,Orange,22-07-2023,2500,10000,6250
+Maharashtra,Orange,25-07-2023,2500,12000,7250
+Maharashtra,Orange,01-08-2023,2000,9000,5500
+Maharashtra,Orange,01-09-2023,1000,4000,2500
+Maharashtra,Orange,09-09-2024,1000,8000,4500
+Maharashtra,Orange,10-09-2024,1000,7000,4000
+Maharashtra,Orange,12-09-2024,1000,7000,4000
+Maharashtra,Orange,19-09-2024,1000,4000,2500
+Maharashtra,Orange,20-09-2024,1000,7000,4000
+Maharashtra,Orange,21-09-2024,1000,5000,3000
+Maharashtra,Orange,23-09-2024,800,4500,2650
+Maharashtra,Orange,24-09-2024,1000,5500,3250
+Maharashtra,Orange,26-09-2024,1000,4500,2750
+Maharashtra,Orange,28-09-2024,800,4500,2650
+Maharashtra,Orange,01-10-2024,2500,4000,3300
+Maharashtra,Orange,05-10-2024,1000,5500,3250
+Madhya Pradesh,Orange,21-12-2023,750,750,800
+Madhya Pradesh,Orange,30-01-2024,700,701,700
+Madhya Pradesh,Orange,08-02-2024,710,710,710
+Madhya Pradesh,Orange,09-02-2024,750,750,750
+Madhya Pradesh,Orange,12-02-2024,700,730,700
+Madhya Pradesh,Orange,15-02-2024,730,730,730
+Madhya Pradesh,Orange,22-02-2024,702,710,702
+Madhya Pradesh,Orange,23-02-2024,635,637,635
+Madhya Pradesh,Orange,25-02-2024,700,708,700
+Madhya Pradesh,Orange,26-02-2024,700,701,700
+Madhya Pradesh,Orange,27-02-2024,700,701,700
+Madhya Pradesh,Orange,28-02-2024,701,701,701
+Madhya Pradesh,Orange,29-02-2024,701,701,700
+Madhya Pradesh,Orange,04-03-2024,700,700,700
+Madhya Pradesh,Orange,05-03-2024,700,700,700
+Madhya Pradesh,Orange,07-03-2024,700,700,700
+Madhya Pradesh,Orange,07-03-2024,700,701,700
+Madhya Pradesh,Orange,12-03-2024,704,704,704
+Madhya Pradesh,Orange,14-03-2024,700,700,700
+Madhya Pradesh,Orange,16-03-2024,702,703,703
+Madhya Pradesh,Orange,19-03-2024,700,701,706
+Madhya Pradesh,Orange,27-03-2024,690,700,700
+Madhya Pradesh,Orange,28-03-2024,690,690,690
+Madhya Pradesh,Orange,21-03-2024,689,690,689
+Madhya Pradesh,Orange,30-03-2024,688,688,688
+Madhya Pradesh,Orange,08-04-2024,687,687,687
+Madhya Pradesh,Orange,09-04-2024,685,686,685
+Bihar,Papaya,14-12-2021,3500,4000,3800
+Bihar,Papaya,24-12-2021,3600,4000,3800
+Bihar,Papaya,28-12-2021,4000,4500,4200
+Bihar,Papaya,29-12-2021,3800,4000,3900
+Bihar,Papaya,01-01-2022,3800,4200,4000
+Bihar,Papaya,05-01-2022,3600,4000,3800
+Bihar,Papaya,08-01-2022,3800,4000,3900
+Bihar,Papaya,18-01-2022,3800,4000,3900
+Bihar,Papaya,19-01-2022,2800,3000,2900
+Bihar,Papaya,24-01-2022,3800,4000,3900
+Bihar,Papaya,25-01-2022,3800,4000,3900
+Bihar,Papaya,02-02-2022,3200,3500,3300
+Bihar,Papaya,03-02-2022,3000,3200,3100
+Bihar,Papaya,06-02-2022,3000,3200,3100
+Bihar,Papaya,08-02-2022,3200,3300,3200
+Bihar,Papaya,14-02-2022,2800,3200,3000
+Bihar,Papaya,15-02-2022,3000,3200,3100
+Bihar,Papaya,26-02-2022,3000,3200,3100
+Bihar,Papaya,27-02-2022,2800,3000,2800
+Bihar,Papaya,28-02-2022,2900,3100,3000
+Bihar,Papaya,01-03-2022,3000,3200,3100
+Bihar,Papaya,02-03-2022,3100,3300,3200
+Bihar,Papaya,03-03-2022,3100,3300,3200
+Bihar,Papaya,04-03-2022,3200,3400,3300
+Bihar,Papaya,05-03-2022,3100,3300,3200
+Bihar,Papaya,06-03-2022,3000,3200,3100
+Bihar,Papaya,07-03-2022,2900,3100,3000
+Bihar,Papaya,08-03-2022,2800,3000,2900
+Bihar,Papaya,09-03-2022,2700,2900,2800
+Bihar,Papaya,10-03-2022,2700,2900,2800
+Tamil Nadu,Banana,07-09-2024,5500,6000,6000
+Tamil Nadu,Banana,08-09-2024,5500,6000,6000
+Tamil Nadu,Banana,09-09-2024,5500,6000,6000
+Tamil Nadu,Banana,10-09-2024,5500,6000,6000
+Tamil Nadu,Banana,11-09-2024,5500,6000,6000
+Tamil Nadu,Banana,12-09-2024,5800,6000,6000
+Tamil Nadu,Banana,13-09-2024,5500,6000,6000
+Tamil Nadu,Banana,14-09-2024,5500,6000,6000
+Tamil Nadu,Banana,15-09-2024,5500,6000,6000
+Tamil Nadu,Banana,16-09-2024,5500,6000,6000
+Tamil Nadu,Banana,17-09-2024,5500,6000,6000
+Tamil Nadu,Banana,18-09-2024,5500,6000,6000
+Tamil Nadu,Banana,19-09-2024,5500,6000,6000
+Tamil Nadu,Banana,20-09-2024,5500,6000,6000
+Tamil Nadu,Banana,21-09-2024,5500,6000,6000
+Tamil Nadu,Banana,22-09-2024,5500,6000,6000
+Tamil Nadu,Banana,23-09-2024,5000,5800,5800
+Tamil Nadu,Banana,24-09-2024,5500,6000,6000
+Tamil Nadu,Banana,25-09-2024,5500,6000,6000
+Tamil Nadu,Banana,26-09-2024,5500,6000,6000
+Tamil Nadu,Banana,27-09-2024,5600,5800,5800
+Tamil Nadu,Banana,28-09-2024,5500,6000,6000
+Tamil Nadu,Banana,29-09-2024,5800,6000,6000
+Tamil Nadu,Banana,30-09-2024,5000,5800,5800
+Tamil Nadu,Banana,01-10-2024,5000,5800,5800
+Tamil Nadu,Banana,02-10-2024,5400,5600,5600
+Tamil Nadu,Banana,03-10-2024,5800,6000,6000
+Tamil Nadu,Banana,04-10-2024,5500,6000,6000
+Tamil Nadu,Banana,05-10-2024,5500,6000,6000
+Tamil Nadu,Banana,06-10-2024,5500,6000,6000
+Tamil Nadu,Banana,07-10-2024,4000,4800,4800
+Tamil Nadu,Banana,08-10-2024,5500,6000,6000
+Tamil Nadu,Banana,09-10-2024,4500,5000,5000
+Tamil Nadu,Banana,10-10-2024,5500,6000,6000
